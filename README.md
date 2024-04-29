@@ -1,5 +1,6 @@
-# capstone_project
+# Capstone project
 Capstone Project - Avellaneda &amp; Stoikov’s Market-making Strategy (Cryptocurrency Markets - Microstructure)
+Enhancing Market-Making Strategies: A Comprehensive Evaluation of Avellaneda & Stoikov's Approach in Cryptocurrency Markets
 
 ## Overview
 This repository contains the source code for the Capstone Project, along with TradingView script for live testing of Khaled Tamim's Avellaneda & Stoikov Strategy.
