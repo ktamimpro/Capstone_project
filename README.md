@@ -15,7 +15,7 @@ This repository contains the source code for the Capstone Project, along with Tr
     - The corresponding Python file.
 
 ## TradingView Script
-- **TradingView Script**: [Khaled Tamim's Avellaneda & Stoikov Strategy](https://www.tradingview.com/script/oMyh4vMH-Khaled-Tamim-s-Avellaneda-Stoikov-Strategy/)
+- **TradingView Script**: [Khaled Tamim's Avellaneda & Stoikov Strategy](https://www.tradingview.com/script/uJ64btmF-Khaled-Tamim-s-Avellaneda-Stoikov-Strategy/)
     - This script is designed for live testing of the Avellaneda & Stoikov Strategy on the TradingView platform. The optimal parameters need to be computed from the Jupyter Notebook first.
 
 ## Usage
