@@ -11,7 +11,7 @@ The main file is a Python notebook which implements an Avellaneda & Stoikov Mark
     - This notebook provides the direct link of the Jupyter Notebook on this Github repository.
 - **Jupyter Notebook on Google Colab**: [MScFE_690_Capstone_Project_Final.ipynb](https://colab.research.google.com/drive/1qdMTK3Dmlvs0C5Q4i_XXHI1RbEpMmc5n?usp=sharing)
     - This notebook provides the direct link for the Capstone Project on Google Colab. It can be copied and run on Google Colab for interactive analysis.
-- **Python file**: [mscfe_690_capstone_project_draft_m6.py](https://github.com/ktamimpro/Capstone_project/blob/main/mscfe_690_capstone_project_draft_m6.py)
+- **Python file**: [mscfe_690_capstone_project_final.py](https://github.com/ktamimpro/Capstone_project/blob/main/mscfe_690_capstone_project_final.py)
     - The corresponding Python file for information.
 
 ## TradingView Script
